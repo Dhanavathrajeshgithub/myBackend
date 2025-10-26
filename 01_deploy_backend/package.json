@@ -1,0 +1,16 @@
+{
+  "name": "01_deploy_backend",
+  "version": "1.0.0",
+  "description": "My first backend project",
+  "license": "ISC",
+  "author": "Rajesh Naik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
