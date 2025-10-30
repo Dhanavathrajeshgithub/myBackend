@@ -1,0 +1,15 @@
+{
+  "name": "04_mega_project",
+  "version": "1.0.0",
+  "description": "A mega project on Backend",
+  "license": "ISC",
+  "author": "Rajesh Naik Dhanavath",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
