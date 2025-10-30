@@ -31,9 +31,9 @@ coverage/
 Thumbs.db
 
 # # Temporary folders
-# tmp/
-# temp/
-# public/temp/
+tmp/
+temp/
+public/temp/
 
 # # Uploads or generated files
 # uploads/
